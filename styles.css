@@ -2,3 +2,15 @@ h1 {
   font-size: 36px;
   color: #33485e;
 }
+
+body {
+  max-width: 800px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font: Georgia;
+}
+
+div.center-top-content {
+  margin: auto;
+  border-bottom: 20px;
+}
