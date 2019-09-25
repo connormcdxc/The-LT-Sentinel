@@ -1,18 +1,93 @@
-h1 {
-  font-size: 36px;
-  color: #33485e;
-  font: Manjari;
-}
-
 body {
   max-width: 800px;
+  padding-left: 200px;
+  padding-right: 200px;
   margin-top: 20px;
   margin-bottom: 20px;
-  font: Georgia;
+  font-family: Helvetica;
 }
 
 .center-top-content {
-  margin: 0 auto;
-  border-bottom: 20px;
-  width: 400px;
+  text-align: center;
+  border-bottom: 6px #03fcc2 solid;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: sans-serif;
+}
+
+h2 {
+  background-color: #33485e;
+  color: white;
+  padding: 5px;
+}
+
+h4, h5 {
+  font-weight: normal;
+}
+
+h5 {
+  font-style: italic;
+}
+
+.center-top-content h1 {
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 10px;
+  margin-bottom: 0px;
+}
+
+.contacts ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0px;
+}
+
+.contacts li {
+  display: inline;
+  padding: 0px;
+}
+
+.center-top-content p {
+  text-align: center;
+  font-style: italic;
+  color: grey;
+}
+
+.main-content {
+  width: 80%;
+  display: inline-block;
+}
+
+.intro {
+  line-height: 50px;
+}
+
+.intro img {
+  float: right;
+  width: 33%;
+  height: 33%
+}
+
+.highlight {
+  background-color: #33485e;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.container-experience {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.container-experience p {
+  font-size: 14px;
+}
+
+.main-content p {
+  font-style: italic;
 }
