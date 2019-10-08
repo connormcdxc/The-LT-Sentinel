@@ -10,6 +10,7 @@ body {
 .center-top-content {
   text-align: center;
   border-bottom: 6px #03fcc2 solid;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -55,18 +56,25 @@ h5 {
 }
 
 .main-content {
-  width: 80%;
+  width: auto;
   display: inline-block;
 }
 
+.section-divider {
+  padding-bottom: 10px;
+  border-bottom: 3px #03fcc2 solid;
+}
+
 .intro {
-  line-height: 50px;
+  line-height: 25px;
 }
 
 .intro img {
   float: right;
-  width: 33%;
-  height: 33%
+  max-width: 33%;
+  height: auto;
+  margin-left: 20px;
+
 }
 
 .highlight {
@@ -82,6 +90,7 @@ h5 {
 .container-experience {
   margin-bottom: 5px;
   margin-top: 5px;
+  width: auto;
 }
 
 .container-experience p {
