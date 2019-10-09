@@ -1,11 +1,3 @@
-body {
-  max-width: auto;
-  padding-left: 200px;
-  padding-right: 200px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  font-family: Helvetica;
-}
 
 .center-top-content {
   text-align: center;
@@ -14,9 +6,10 @@ body {
 
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: sans-serif;
+.titlename h1{
+  font-family: 'Monoton', cursive;
 }
+
 
 h2 {
   background-color: #33485e;
@@ -32,11 +25,17 @@ h5 {
   font-style: italic;
 }
 
+.titlename {
+  text-align: center;
+}
+
 .center-top-content h1 {
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 10px;
   margin-bottom: 0px;
+  text-align : center;
+  width : auto;
 }
 
 .contacts ul {
@@ -71,11 +70,13 @@ h5 {
 }
 
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 100%;
   margin-bottom: 10px;
+  border-radius: 50%;
+}
+
+.jumbotron {
+  padding: 0px;
 }
 
 .highlight {
