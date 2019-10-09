@@ -1,0 +1,12 @@
+.titlehead {
+  font-family: 'Monoton', cursive;
+}
+
+img.titlephoto {
+  width: 100%;
+  height: auto;
+}
+
+.titlecontacts img {
+  max-width: 50%;
+}
