@@ -1,12 +1,106 @@
 .titlehead {
-  font-family: 'Monoton', cursive;
+  font-family: 'Pacifico', cursive;
+  text-align:center;
+  color: #BEC5AD;
+  background-color: #294936;
+  border:5px solid #C44536;
+  border-radius: 25px;
 }
+
+.contactbutton {
+  color: #BEC5AD;
+  background-color: #294936;
+}
+
+
 
 img.titlephoto {
   width: 100%;
   height: auto;
+  border:5px solid #C44536;
+  border-radius: 50%
 }
 
-.titlecontacts img {
-  max-width: 50%;
+.roundimage {
+  height: auto;
+  border:5px solid #C44536;
+  border-radius: 50%
 }
+
+.center {
+  text-align: center;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+}
+
+h4, h5 {
+  font-family: 'Oswald', sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h3 {
+    font-family: 'Pacifico', cursive;
+    color: #BEC5AD;
+    background-color: #294936;
+    border:5px solid #C44536;
+    border-radius: 25px;
+}
+
+.welcome {
+  font-family: 'Pacifico', cursive;
+  color: #BEC5AD;
+  background-color: #294936;
+  border:5px solid #C44536;
+  border-radius: 25px;
+  width : 50%;
+}
+.btn-default {
+  color: #BEC5AD;
+  background-color: #294936;
+  border:5px solid #C44536;
+  font-family: 'Pacifico', cursive;
+}
+
+
+.welcometitle{
+  left: 0;
+   line-height: 200px;
+   margin-top: -100px;
+   position: absolute;
+   text-align: center;
+   top: 50%;
+   width: 100%;
+   font-family: 'Pacifico', cursive;
+}
+
+i {
+  max-width: 100%;
+}
+
+ul {
+   list-style-type: none;
+}
+
+.navbuttons {
+  text-align: center;
+}
+
+.welcomepage{
+  background-image: url("mountains.jpg");
+  background-size: cover;
+}
+
+.jumbotron {
+   max-height: 200px;
+   padding-top: 10px;
+   padding-bottom:10px;
+   background-image: url("mountains.jpg");
+   background-attachment: scroll;
+   background-position: bottom;
+   border:5px solid #C44536;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
