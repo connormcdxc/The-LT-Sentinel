@@ -27,8 +27,6 @@
   }
 }
 
-
-
 img.titlephoto {
   width: 100%;
   height: auto;
@@ -55,6 +53,23 @@ h4, h5 {
   font-family: 'Oswald', sans-serif;
   font-style: italic;
   font-weight: bold;
+}
+
+.aboutmeblurb {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+.card-title {
+  font-family: 'Pacifico', cursive;
+  color: #BEC5AD;
+  background-color: #294936;
+  border:5px solid #C44536;
+  border-radius: 25px;
+  text-align: center;
+  letter-spacing: 2px;
 }
 
 h3 {
