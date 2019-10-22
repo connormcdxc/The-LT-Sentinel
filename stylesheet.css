@@ -2,14 +2,14 @@
   font-family: 'Pacifico', cursive;
   text-align:center;
   color: #BEC5AD;
-  background-color: #294936;
-  border:5px solid #C44536;
+  background-color: #66B385;
+  border:5px solid #B3746F;
   border-radius: 25px;
+  text-shadow: 0px 3px black;
 }
 
 .contactbutton {
   color: #BEC5AD;
-  background-color: #294936;
 }
 
 .welcomepage{
@@ -30,14 +30,14 @@
 img.titlephoto {
   width: 100%;
   height: auto;
-  border:5px solid #C44536;
+  border:5px solid #B3746F;
   border-radius: 50%
 }
 
 .roundimage {
   max-height: 100%;
   max-width: 100%;
-  border:5px solid #C44536;
+  border:5px solid #B3746F;
   border-radius: 50%
 }
 
@@ -65,19 +65,21 @@ h4, h5, h6{
 .card-title {
   font-family: 'Pacifico', cursive;
   color: #BEC5AD;
-  background-color: #294936;
-  border:5px solid #C44536;
+  background-color: #66B385;
+  border:5px solid #B3746F;
   border-radius: 25px;
   text-align: center;
   letter-spacing: 2px;
+  text-shadow: 0px 3px black;
 }
 
 h3 {
     font-family: 'Pacifico', cursive;
     color: #BEC5AD;
-    background-color: #294936;
-    border:5px solid #C44536;
+    background-color: #66B385;
+    border:5px solid #B3746F;
     border-radius: 25px;
+    text-shadow: 0px 3px black;
 }
 
 .headline {
@@ -90,25 +92,35 @@ h3 {
 .welcome {
   font-family: 'Pacifico', cursive;
   color: #BEC5AD;
-  background-color: #294936;
-  border:5px solid #C44536;
+  background-color: #66B385;
+  border:5px solid #B3746F;
   border-radius: 25px;
   width : 50%;
 }
 .btn-default {
   color: #BEC5AD;
-  background-color: #294936;
-  border:5px solid #C44536;
+  background-color: #66B385;
+  border:5px solid #B3746F;
   font-family: 'Pacifico', cursive;
+  text-shadow: 0px 3px black;
 }
 
+.titledesc {
+  color: #BEC5AD;
+  font-family: 'Oswald', sans-serif;
+  text-shadow: 0px 3px black;
+  margin-bottom:6px;
+  text-transform: lowercase;
+  letter-spacing: 20px;
+  font-size: 30px;
+}
 
 .work {
   padding-top: 50px;
   padding-bottom: 50px;
 }
 .bottomborder{
-  border-bottom:5px solid #C44536;
+  border-bottom:5px solid #B3746F;
   padding-bottom: 50px;
 }
 
@@ -147,7 +159,7 @@ ul {
    background-image: url("mountains.jpg");
    background-attachment: scroll;
    background-position: bottom;
-   border:5px solid #C44536;
+   border:5px solid #B3746F;
    background-repeat: no-repeat;
    background-size: cover;
  }
