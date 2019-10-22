@@ -12,23 +12,22 @@
   background-color: #294936;
 }
 
-@media only (max-width: 992px) {
-  .welcomepage{
-    background-image: url("mountainsMobile.jpg");
+.welcomepage{
+  background-image: url("mountains.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 576px) {
+  .welcomepage {
+   background-size: auto;
+   background-position: center;
+   background-repeat: no-repeat; 
   }
 }
 
-@media only (max-width: 768px) {
-  .welcomepage{
-    background-image: url("mountainsMobile.jpg");
-  }
-}
 
-@media only (max-width: 576px) {
-  .welcomepage{
-    background-image: url("mountainsMobile.jpg");
-  }
-}
 
 img.titlephoto {
   width: 100%;
@@ -119,10 +118,6 @@ ul {
   text-align: center;
 }
 
-.welcomepage{
-  background-image: url("mountains.jpg");
-  background-size: cover;
-}
 
 .jumbotron {
    max-height: 200px;
