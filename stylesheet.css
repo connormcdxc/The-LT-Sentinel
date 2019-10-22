@@ -27,6 +27,11 @@
   }
 }
 
+.card {
+  background-color: transparent;
+  border: 5px solid #B3746F;
+}
+
 img.titlephoto {
   width: 100%;
   height: auto;
