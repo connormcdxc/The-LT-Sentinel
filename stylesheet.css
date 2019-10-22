@@ -80,6 +80,13 @@ h3 {
   padding-bottom: 50px;
 }
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
 .welcometitle{
   left: 0;
    line-height: 200px;
