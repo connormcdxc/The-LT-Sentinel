@@ -49,6 +49,13 @@ h3 {
     border-radius: 25px;
 }
 
+.headline {
+  font-family: 'Oswald', sans-serif;
+  color: #BEC5AD;
+  font-size: 40px;
+  text-shadow: 3px 3px black;
+}
+
 .welcome {
   font-family: 'Pacifico', cursive;
   color: #BEC5AD;
@@ -64,6 +71,14 @@ h3 {
   font-family: 'Pacifico', cursive;
 }
 
+.center {
+  text-align: center;
+}
+
+.work {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 
 .welcometitle{
   left: 0;
