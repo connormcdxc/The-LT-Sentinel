@@ -92,7 +92,10 @@ h3 {
   padding-top: 50px;
   padding-bottom: 50px;
 }
-
+.bottomborder{
+  border-bottom:5px solid #C44536;
+  padding-bottom: 50px;
+}
 
 .nopadding {
   padding:0px;
