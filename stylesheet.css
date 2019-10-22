@@ -23,7 +23,7 @@
   .welcomepage {
    background-size: auto;
    background-position: center;
-   background-repeat: no-repeat; 
+   background-repeat: no-repeat;
   }
 }
 
@@ -37,7 +37,8 @@ img.titlephoto {
 }
 
 .roundimage {
-  height: auto;
+  max-height: 100%;
+  max-width: 100%;
   border:5px solid #C44536;
   border-radius: 50%
 }
@@ -86,13 +87,15 @@ h3 {
   font-family: 'Pacifico', cursive;
 }
 
-.center {
-  text-align: center;
-}
 
 .work {
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+
+.nopadding {
+  padding:0px;
 }
 
 .welcometitle{
