@@ -13,16 +13,21 @@
 }
 
 @media only (max-width: 992px) {
+  .welcomepage{
+    background-image: url("mountainsMobile.jpg");
+  }
 }
 
 @media only (max-width: 768px) {
   .welcomepage{
-    background-image: url("mountains.jpg");
-    background-size: contain;
+    background-image: url("mountainsMobile.jpg");
   }
 }
 
 @media only (max-width: 576px) {
+  .welcomepage{
+    background-image: url("mountainsMobile.jpg");
+  }
 }
 
 img.titlephoto {
