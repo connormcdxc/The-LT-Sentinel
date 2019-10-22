@@ -12,11 +12,17 @@
   background-color: #294936;
 }
 
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
+@media only (max-width: 992px) {
+}
+
+@media only (max-width: 768px) {
+  .welcomepage{
+    background-image: url("mountains.jpg");
+    background-size: contain;
   }
+}
+
+@media only (max-width: 576px) {
 }
 
 img.titlephoto {
