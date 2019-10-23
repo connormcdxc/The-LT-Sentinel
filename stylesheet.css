@@ -120,6 +120,15 @@ h3 {
   font-size: 20px;
 }
 
+.copyright {
+  color: #BEC5AD;
+  font-family: 'Oswald', sans-serif;
+  text-shadow: 0px 3px black;
+  margin-bottom:3px;
+  text-transform: lowercase;
+  font-size:15px;
+}
+
 .work {
   padding-top: 50px;
   padding-bottom: 50px;
