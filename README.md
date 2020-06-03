@@ -1,1 +1,0 @@
-# ajtuerk.github.io
