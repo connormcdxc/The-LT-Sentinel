@@ -1,0 +1,24 @@
+.blackletter {
+  font-family: 'UnifrakturCook', cursive;
+}
+
+.masthead1{
+  font-size: 35px;
+}
+
+.masthead2 {
+  font-size: 50px;
+}
+
+.header {
+  max-width: 650px;
+  margin: auto;
+}
+
+.jumbotron {
+  max-height: 300px;
+}
+
+.btn {
+  padding: 5px;
+}
