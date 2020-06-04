@@ -1,13 +1,39 @@
 .blackletter {
   font-family: 'UnifrakturCook', cursive;
+  text-shadow: 2px 2px #DBCDC6;
 }
 
-.masthead1{
-  font-size: 35px;
+.body {
+  font-family: 'Nanum Myeongjo', serif;
 }
 
-.masthead2 {
-  font-size: 50px;
+.btn {
+  padding: 5px;
+}
+
+.container {
+    max-width: 100%;
+}
+
+.footer {
+  background-color: white;
+}
+
+.frontblurb {
+  text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+}
+.frontheadline {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 75px;
+}
+
+.frontpage {
+  padding:  10px;
+}
+
+.frontphoto {
+  max-width: 100%;
 }
 
 .header {
@@ -16,9 +42,15 @@
 }
 
 .jumbotron {
-  max-height: 300px;
+  max-height: 150px;
+  background-image: url("images/trees.jpg");
+  background-size: auto;
 }
 
-.btn {
-  padding: 5px;
+.masthead1{
+  font-size: 35px;
+}
+
+.masthead2 {
+  font-size: 50px;
 }
