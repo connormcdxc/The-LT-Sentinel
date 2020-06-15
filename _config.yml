@@ -35,6 +35,14 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+    
+    Alex:
+      name:           Alexander Tuerk
+      site:           http://theltsentinel.com/
+      avatar:         {{site.baseurl}}/assets/images/avatar2.jpg
+      bio:            "Prominent journalist and Graduate from the University of Maryland"
+      email:          ajtuerk@gmail.com
+      twitter:        https://twitter.com/tuerk_alexander   
  
 # Defaults
 defaults:
