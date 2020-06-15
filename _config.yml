@@ -36,7 +36,7 @@ authors:
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
     
-    Alex:
+    alex:
       name:           Alexander Tuerk
       site:           http://theltsentinel.com/
       avatar:         {{site.baseurl}}/assets/images/avatar2.jpg
