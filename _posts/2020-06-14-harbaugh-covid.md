@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The first mass-produced book to deviate from a rectilinear format"
-author: sal
+author: alex
 categories: [ tutorial ]
-image: {{site.baseurl}}/assets/images/17.jpg
+image: assets/images/17.jpg
 tags: [featured]
 ---
 John Harbaugh, 12 year head coach of the Baltimore Ravens, made his thoughts known on Thursday regarding the NFL’s COVID-19 guidelines for returning to preseason training during an interview with local sports station 105.7 The Fan.  The Baltimore head coach mentions early in the conversation that due to COVID-19 he and his staff “haven’t seen our players, in person, at all” which has pushed them to utilize as much virtual communication as they can. 
