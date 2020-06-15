@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The first mass-produced book to deviate from a rectilinear format"
-author: Matt
+author: Alexander Tuerk
 categories: [ tutorial ]
 image: assets/images/17.jpg
 tags: [featured]
