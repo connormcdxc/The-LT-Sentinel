@@ -4,7 +4,7 @@ title:  "Harbaugh's Thoughts on COVID-19"
 author: alex
 categories: [ tutorial ]
 image: assets/images/harbaugh-rain.jpg
-tags: [featured]
+tags: [featured, sticky]
 ---
 John Harbaugh, 12 year head coach of the Baltimore Ravens, made his thoughts known on Thursday regarding the NFL’s COVID-19 guidelines for returning to preseason training during an interview with local sports station 105.7 The Fan.  The Baltimore head coach mentions early in the conversation that due to COVID-19 he and his staff “haven’t seen our players, in person, at all” which has pushed them to utilize as much virtual communication as they can. 
 When asked about what steps the organization plans to take moving forward in regards to using their training facilities amidst social distancing guidelines, Coach Harbaugh claimed he has “seen the memos on that, and to be quite honest with you it’s impossible what they’re asking us to do, humanly impossible”.  He made a point to mention that nobody knows what the actual reintegration of training will look like, “not even the experts know” how this will shake out over the next few months.
