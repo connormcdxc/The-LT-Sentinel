@@ -10,8 +10,6 @@ Baltimore Ravens head coach John Harbaugh detailed the NFL’s COVID-19 guidelin
 
 When asked about what steps the Ravens organization plans to take when using their training facilities amidst social distancing guidelines, Harbaugh said that expectations have to remain grounded.
 
->"There's no way this can be right,"
-
 “[I’ve] seen the memos on that, and to be quite honest with you it’s impossible what they’re asking us to do, humanly impossible,” Harbaugh said. “Good people, smart people are involved in this, but the way I'm reading these memos right now, you throw your hands up and you go, 'What the heck? There's no way this can be right.’” He also mentioned that “not even the experts know” what the actual reintegration of training will look like.
 
 The current COVID-19 protocol the NFL is requiring includes social distancing in the locker room, meetings, weight rooms and cafeterias.  Harbaugh said he is not confident maintaining those standards will be possible in a football training environment.  	
