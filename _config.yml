@@ -4,7 +4,7 @@ description: 'The Lutherville-Timonium Sentinel'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: http://theltsentinel.com/
-baseurl: '/'
+baseurl: ''
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
