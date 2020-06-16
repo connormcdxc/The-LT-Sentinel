@@ -27,7 +27,15 @@ authors:
       avatar:         assets/images/alex-profile.jpeg
       bio:            "Prominent journalist and Graduate from the University of Maryland"
       email:          ajtuerk@gmail.com
-      twitter:        https://twitter.com/tuerk_alexander   
+      twitter:        https://twitter.com/tuerk_alexander
+      
+    gabe:
+      name:           Gabriel Ortis
+      site:           http://theltsentinel.com
+      avatar:         assets/images/alex-profile.jpeg
+      bio:            "Fertility Rites"
+      email:          gabeortis@gmail.com
+      twitter:          
      
  
 # Defaults
