@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "Harbaugh's Thoughts on COVID-19"
 author: alex
 categories: [ tutorial ]
 image: assets/images/17.jpg
