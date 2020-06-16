@@ -2,7 +2,7 @@
 layout: post
 title:  "Harbaugh's Thoughts on COVID-19"
 author: alex
-categories: [ tutorial ]
+categories: [ sports ]
 image: assets/images/harbaugh-rain.jpg
 tags: [featured, sticky]
 ---
