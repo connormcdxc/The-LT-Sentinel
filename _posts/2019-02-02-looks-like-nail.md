@@ -2,7 +2,7 @@
 layout: post
 title:  "Everything looks like a nail"
 author: joe
-categories: [ tutorial ]
+categories: [ opinion ]
 image: assets/images/joe-graphic.png
 tags: [featured]
 ---
@@ -18,7 +18,7 @@ Discrete policy choices made over the past several decades have effectively tran
 
 Since its inclusion in the 1997 National Defense Authorization Act, the Department of Defense 1033 Program has allowed the transfer of over $7 billion dollars in military surplus equipment to local law enforcement agencies. Included in these transfers are nearly eighty thousand assault rifles, 205 grenade launchers, 422 helicopters and 50 airplanes. MRAP armored vehicles, designed to withstand improvised bombs, rockets and machine gun fire from insurgencies in the Middle East, are among the most commonly requested items. Baltimore County Police Department received nearly three hundred M16 Assault rifles through the 1033 program in 2014 alone. The University of Maryland Police Department has nearly fifty. 
 
-	Racial unrest in Ferguson, Missouri prompted the country’s first genuine reckoning with militarized policing in 2014. Under scrutiny from critics challenging the necessity of military hardware in domestic policing, President Barack Obama curtailed the 1033 program in 2015 with additional restrictions on the type of equipment available to law enforcement agencies. President Trump overturned these restrictions by executive order in 2017, with former Attorney General Jeff Sessions announcing the reversal at a gathering of the Fraternal Order of Police, the country’s largest police union, in Nashville, Tennessee.
+Racial unrest in Ferguson, Missouri prompted the country’s first genuine reckoning with militarized policing in 2014. Under scrutiny from critics challenging the necessity of military hardware in domestic policing, President Barack Obama curtailed the 1033 program in 2015 with additional restrictions on the type of equipment available to law enforcement agencies. President Trump overturned these restrictions by executive order in 2017, with former Attorney General Jeff Sessions announcing the reversal at a gathering of the Fraternal Order of Police, the country’s largest police union, in Nashville, Tennessee.
   
 It was our failure to internalize the lessons of Ferguson that allowed a relatively localized event like the death of George Floyd to catalyze such a massive social movement. In hindsight, it should have come as no surprise that as law enforcement agencies militarized, those in the line of duty found themselves increasingly alienated from the society they are sworn to protect. The ascendance of the assault rifle in modern policing, coupled with the ubiquity of security cameras, has fomented a prevailing belief among America’s disaffected that the state sees them as potential combatants rather than bonafide citizens. The institution, as it stands now, is on the verge of illegitimacy. 
 
