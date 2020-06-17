@@ -24,7 +24,7 @@ authors:
    alex:
       name:           Alexander Tuerk
       site:           http://theltsentinel.com
-      avatar:         assets/images/gabe-profile.jpg
+      avatar:         assets/images/alex-profile.jpeg
       bio:            "Editor-In-Chief"
       email:          ajtuerk@gmail.com
       twitter:          
@@ -41,7 +41,7 @@ authors:
    joe:
       name:           Joseph Niehaus
       site:           http://theltsentinel.com
-      avatar:         assets/images/gabe-profile.jpg
+      avatar:         
       bio:            "National Political Correspondent"
       email:          joe.niehaus98@gmail.com
       twitter:          
