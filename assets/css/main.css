@@ -3294,6 +3294,7 @@ input[type="button"].btn-block {
   .navbar > .container,
   .navbar > .container-fluid {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between; }
