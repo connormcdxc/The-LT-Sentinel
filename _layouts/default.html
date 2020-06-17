@@ -36,8 +36,24 @@
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
       
 {% if page.url == "/" %}
+<style>
+    .banner {
+        background-image: url(/assets/images/large-banner.large);
+        height: 280px;
+        /* min-width: 1040px; */
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .fixed-top {
+        position: inherit;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+</style>
 <div class="container">
-  <div class="banner" style="background-image: url( /assets/images/large-banner.large); height: 400px; background-size: cover; background-repeat: no-repeat;"></div>
+  <div class="banner"></div>
 </div>
 {% endif %}
     <!-- Navbar -->
