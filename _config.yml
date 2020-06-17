@@ -2,7 +2,7 @@
 name: 'The Lutherville-Timonium Sentinel'
 description: 'The Lutherville-Timonium Sentinel'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.jpeg'
+favicon: 'assets/images/favicon.ico'
 url: http://theltsentinel.com/
 baseurl: ''
 disqus: 'demowebsite'
