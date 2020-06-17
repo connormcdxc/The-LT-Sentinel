@@ -5,7 +5,7 @@ pagination:
     enabled: true
 description: "Get your stories, get your news. Stay informed."
 ---
-{% assign author = latest_post.author %}
+
 <style>
     body {
         padding-top: 40px;
@@ -23,6 +23,7 @@ description: "Get your stories, get your news. Stay informed."
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
+    {% assign author = site.authors[latest_post.author] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -36,7 +37,7 @@ description: "Get your stories, get your news. Stay informed."
         {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
     </p>-->
     <h6 class="font-weight-bold">Written by 
-        {{ author.name }}         
+        {{ author.name }} 
     </h6>
     <div>
         <small class="d-block text-muted">
