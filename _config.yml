@@ -21,13 +21,31 @@ plugins:
   
 authors:
 
+   alex:
+      name:           Alexander Tuerk
+      site:           http://theltsentinel.com
+      avatar:         assets/images/gabe-profile.jpg
+      bio:            "Editor-In-Chief"
+      email:          ajtuerk@gmail.com
+      twitter:          
+ 
+
    gabe:
       name:           Gabriel Ortis
       site:           http://theltsentinel.com
       avatar:         assets/images/gabe-profile.jpg
       bio:            "Prominent sports reporter and disillusioned Tottenham fan"
       email:          gabeortis@gmail.com
+      twitter:
+      
+   joe:
+      name:           Joseph Niehaus
+      site:           http://theltsentinel.com
+      avatar:         assets/images/gabe-profile.jpg
+      bio:            "National Political Correspondent"
+      email:          joe.niehaus98@gmail.com
       twitter:          
+ 
  
 # Defaults
 defaults:
