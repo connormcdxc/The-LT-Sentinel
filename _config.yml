@@ -22,7 +22,7 @@ plugins:
 authors:
 
    alex:
-      name:           Alexander Tuerk, Editor-in-Chief
+      name:           Alexander Tuerk
       site:           http://theltsentinel.com
       avatar:         assets/images/alex-profile.jpg
       bio:            "Editor-In-Chief"
@@ -31,7 +31,7 @@ authors:
  
 
    gabe:
-      name:           Gabriel Ortis, Sports Correspondent
+      name:           Gabriel Ortis
       site:           http://theltsentinel.com
       avatar:         assets/images/gabe-profile.jpg
       bio:            "Prominent sports reporter and disillusioned Tottenham fan"
@@ -39,7 +39,7 @@ authors:
       twitter:
       
    joe:
-      name:           Joseph Niehaus, National Political Correspondent
+      name:           Joseph Niehaus
       site:           http://theltsentinel.com
       avatar:         
       bio:            "National Political Correspondent"
