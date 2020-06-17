@@ -5,7 +5,7 @@ pagination:
     enabled: true
 description: "Get your stories, get your news. Stay informed."
 ---
-
+{% assign author = site.authors[latest_post.author] %}
 <style>
     body {
         padding-top: 40px;
@@ -36,7 +36,7 @@ description: "Get your stories, get your news. Stay informed."
         {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
     </p>-->
     <h4 class="font-weight-bold">Written by 
-        {{ latest_post.author.name }}         
+        {{ author.name }}         
     </h4>
     <div>
         <small class="d-block text-muted">
