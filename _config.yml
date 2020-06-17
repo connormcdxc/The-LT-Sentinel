@@ -20,7 +20,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    
+
     alex:
       name:           Alexander Tuerk
       site:           http://theltsentinel.com
