@@ -35,9 +35,9 @@ description: "Get your stories, get your news. Stay informed."
     <!--<p class="excerpt">
         {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
     </p>-->
-    <h5 class="font-weight-bold">Written by 
-        {{ latest_post.author }}         
-        </h5>
+    <h4 class="font-weight-bold">Written by 
+        {{ latest_post.author.name }}         
+    </h4>
     <div>
         <small class="d-block text-muted">
             In <span class="catlist">
