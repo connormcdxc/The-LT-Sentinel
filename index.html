@@ -3,12 +3,12 @@ title: "Lutherville-Timonium Sentinel"
 layout: default
 pagination:
     enabled: true
-description: "Get your stories, get your news. Stay informed."
+description: "Get your stories, get your news. Stay informed." 
 ---
 
 <style>
     body {
-        padding-top: 40px;
+        padding-top: 40px; 
     }
 </style>
 
@@ -23,7 +23,7 @@ description: "Get your stories, get your news. Stay informed."
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
-    {% assign author = site.authors[latest_post.author] %}
+    {% assign author = site.authors[latest_post.author]  %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
